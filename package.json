@@ -1,0 +1,15 @@
+{
+  "name": "browser-exif-reader",
+  "version": "0.0.0",
+  "description": "Drag a JPEG to the page to read its EXIF information",
+  "main": "main.js",
+  "dependencies": {
+    "exif-parser": "~0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beau Gunderson <beau@beaugunderson.com>",
+  "license": "MIT"
+}
